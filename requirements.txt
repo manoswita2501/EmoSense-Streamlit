@@ -3,3 +3,4 @@ textblob
 plotly
 cleantext
 pandas
+streamlit_extras.let_it_rain
